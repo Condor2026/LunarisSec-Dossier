@@ -1,0 +1,36 @@
+# 5. Cronología de Ataques y Operaciones Ofensivas
+
+## 5.1. Vulnerabilidades reportadas (responsible disclosure)
+
+| Fecha | Sitio web | Fallo |
+|-------|-----------|-------|
+| 13/07/2026 | franceparebrie.fr | Crítico |
+| 10/07/2026 | litige.fr | Crítico |
+| 18/08/2026 | impots.gouv.fr | Sin autenticación |
+| 18/08/2026 | juritravail.fr | Crítico |
+| 18/08/2026 | huma-num.fr | Crítico |
+
+## 5.2. Exfiltración de datos
+
+- Bases de datos de usuarios (nombres, emails, teléfonos)
+- Accesos a sistemas (webshells)
+- Logs de servidores
+
+## 5.3. Ultimátum a la UE
+
+Julio 2026: Exigieron el abandono del Chat Control.
+
+## 5.4. Defacements
+
+- paynecountyok.gov (EE.UU.)
+- crqxx.gov.br (Brasil)
+
+## 5.5. Operaciones contra universidades francesas
+
+- Université de Bourgogne
+- Université Aix-Marseille
+- Université de Toulouse
+
+## 5.6. Acusaciones de HMSaiko6
+
+18/08/2026: Acusó a @HackingTeam777, @HackersOIHEC y @debugsec1337 de estafas, phishing y pederastia.

@@ -1,0 +1,41 @@
+# 3. Análisis Lingüístico y Patrones de Comunicación
+
+## 3.1. Metodología de extracción (herramienta Trinity)
+
+La herramienta Trinity es un bot de Telegram que permite extraer estadísticas detalladas de mensajes de usuarios y grupos.
+
+## 3.2. Frecuencia de palabras por usuario
+
+| Usuario | Idioma | Top 3 palabras |
+|---------|--------|----------------|
+| CybΞr | Francés | vais (38), mais (34), c'est (30) |
+| kiki Micky | Árabe marroquí | dial (675), hhhhh (405), wahd (351) |
+| Malwork | Francés | mais (90), fais (69), quoi (60) |
+| Ak1r4 Yuk1 | Italiano | anche (925), sono (888), come (851) |
+| penetration | Chino | @xmbb16888 (75), 你们好啊 (51), 频道上新 (48) |
+
+## 3.3. Idiomas predominantes
+
+- **Francés/árabe argelino:** CybΞr, HMSaiko6, Malwork, Cartel2P
+- **Árabe marroquí:** kiki Micky
+- **Italiano:** Ak1r4 Yuk1
+- **Chino mandarín:** penetration
+- **Ruso/ucraniano:** Luther, Wagner Z Group
+- **Inglés:** Shadow, 0xJuan HTW
+
+## 3.4. Jerga y modismos
+
+| Término | Significado | Usuario |
+|---------|-------------|---------|
+| trkl | "Tranquilo" | Malwork |
+| hhhhh | Risa (jajaja) | kiki Micky |
+| dial | "De" o "para" | kiki Micky |
+| 你们好啊 | "Hola a todos" | penetration |
+
+## 3.5. Patrones de horarios
+
+- **CybΞr:** UTC+1 (Argelia) – tarde/noche europea
+- **kiki Micky:** UTC+1/UTC+3 – variable
+- **Ak1r4 Yuk1:** UTC+2 (Italia)
+- **penetration:** UTC+8 (China)
+- **Shadow:** UTC-5 a UTC-8 (América)

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si utilizas este dossier en tu investigación, por favor cítalo como:"
+title: "LunarisSec - Dossier Completo de Inteligencia de Amenazas"
+authors:
+  - family-names: "Condor2026"
+    email: "en mi README"
+    affiliation: "CTI Global Research"
+date-released: 2026-08-18
+version: 1.0.0
+doi: "10.5281/zenodo.1234567"
+license: MIT
+repository-code: "https://github.com/Condor2026/LunarisSec-Dossier"
+keywords:
+  - "OSINT"
+  - "Threat Intelligence"
+  - "LunarisSec"
+  - "Hacktivism"
+  - "Cyber Security"
+  - "France"
+  - "Argelia"

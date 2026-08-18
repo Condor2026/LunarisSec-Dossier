@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=LunarisSec+%7C+Threat+Intel;OSINT+%7C+Dark+Web+Monitoring;Trinity+Andromeda+%7C+El+Esp%C3%ADritu+Inquebrantable;Correcci%C3%B3n+%7C+Reescribir+las+Reglas;La+noche+no+es+el+final" alt="Typing animation" />
 </p>
 
+![Condore2026](LunarisSec.jpg)
+
 **Fecha de publicación:** 18 de agosto de 2026  
 **Clasificación:** TLP: ÁMBAR (distribución restringida)  
 **Autor:** Cóndor ([github.com/Condor2026](https://github.com/Condor2026))  

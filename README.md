@@ -153,6 +153,8 @@ El grupo mantiene alianzas declaradas con colectivos como Hydra France, IHS, Key
 Este dossier recopila todas las capturas, IDs, estadísticas y referencias proporcionadas por el autor, sin omitir ningún dato, para ofrecer una imagen completa de la amenaza. Se han cruzado con informes previos de Cóndor disponibles en GitHub (CTI Global, CIBERWAR, Dossier 764, etc.) para establecer correlaciones y ofrecer un análisis de inteligencia de amenazas de alto nivel.
 
 ---
+![Condor2026](Lunarisecfucks.jpg)
+
 
 ## 2. PERFIL DEL GRUPO
 

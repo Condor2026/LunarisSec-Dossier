@@ -90,8 +90,8 @@
     - 12.6. Lista de palabras frecuentes por usuario (datos completos de Trinity)
 13. [NOTA DE NEUTRALIDAD Y ADVERTENCIA](#13-nota-de-neutralidad-y-advertencia)
 14. [FIRMA DEL AUTOR](#14-firma-del-autor)
-
----
+    
+![Condor2026](fuckLunarisec.jpg)
 
 ## SECCIÓN II: ANÁLISIS TÁCTICO-OPERATIVO Y RECOMENDACIONES AVANZADAS
 
